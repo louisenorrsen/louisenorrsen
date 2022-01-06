@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louise Norrsén</h1>
 <h3 align="center">A future developer from Sweden with high potential to become really successful in programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=louisenorrsen&label=Profile%20views&color=690eb4&style=flat" alt="louisenorrsen" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louisenorrsen" alt="louisenorrsen" /></a> </p>
 
 - 🔭 I’m currently working on **My Portfolio**
