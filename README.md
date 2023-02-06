@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Louise Norrsén</h1>
-<h3 align="center">Front-end Engineer Student from Sweden</h3>
+<h3 align="center">Software Engineer Student from Sweden</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louisenorrsen" alt="louisenorrsen" /></a> </p>
 
 - 🔭 I’m currently working on **how to master HTML, CSS and JavaScript**
 
-- 🌱 I’m currently learning **Front-End Engineer at Codecademy**
+- 🌱 I’m currently learning **Software Engineer at Mölk**
 
 - 🤝 I’m looking for help with **write better code**
 
