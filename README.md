@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **how to master HTML, CSS and JavaScript**
 
-- 🌱 I’m currently learning **Software Engineer at Mölk**
+- 🌱 I’m currently learning **Software Engineering at Mölk**
 
 - 🤝 I’m looking for help with **write better code**
 
