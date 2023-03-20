@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louisenorrsen" alt="louisenorrsen" /></a> </p>
 
-- 🔭 I’m currently working on **how to master HTML, CSS and JavaScript**
+- 🔭 I’m currently working on **School Work**
 
 - 🌱 I’m currently learning **Software Engineering at Mölk**
 
